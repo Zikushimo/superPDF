@@ -1,0 +1,14 @@
+build/superPDF/Analysis-00.toc
+build/superPDF/base_library.zip
+build/superPDF/EXE-00.toc
+build/superPDF/PKG-00.toc
+build/superPDF/PYZ-00.pyz
+build/superPDF/PYZ-00.toc
+build/superPDF/superPDF.pkg
+build/superPDF/warn-superPDF.txt
+build/superPDF/xref-superPDF.html
+build/superPDF/localpycs/pyimod01_archive.pyc
+build/superPDF/localpycs/pyimod02_importers.pyc
+build/superPDF/localpycs/pyimod03_ctypes.pyc
+build/superPDF/localpycs/pyimod04_pywin32.pyc
+build/superPDF/localpycs/struct.pyc
